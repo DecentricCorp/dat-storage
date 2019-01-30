@@ -6,7 +6,7 @@
   "dependencies": {
     "append-tree": "^2.0.5",
     "dat-secret-storage": "^4.0.0",
-    "hyperdrive": "^9.1.1",
+    "hyperdrive": "git+https://github.com/DecentricCorp/hyperdrive.git#hyperdb-backend",
     "multi-random-access": "^2.0.3",
     "random-access-file": "^2.0.1"
   },
